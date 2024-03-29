@@ -13,7 +13,7 @@ export default function Component() {
     setCopied(true);
   };
   return (
-    <div className="  flex justify-center items-center  mx-auto h-screen">
+    <div className=" flex justify-center items-center  mx-auto">
       <div className="container flex flex-col items-center gap-4 px-4 text-center md:px-6">
         <div className="space-y-3">
           <h1 className="text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl">
